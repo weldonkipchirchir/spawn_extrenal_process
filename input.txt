@@ -1,0 +1,4 @@
+In this example, the input.txt file is read and its contents are piped to the stdin of the cmd process, which then prints the file contents using the type command.
+
+Make sure to create an input.txt file in the same directory as your Rust program with some content in it. The output should be the contents of the input.txt file printed to the console.
+
